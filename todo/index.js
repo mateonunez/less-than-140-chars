@@ -1,0 +1,1 @@
+t=[],d='✔';process.openStdin().on('data',a=>{b=(a+'').trim();b!=''?t[b]?~t[b].indexOf(d)?delete t[b]:t[b]+=d:t.push(b):'';console.table(t)})
