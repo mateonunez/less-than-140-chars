@@ -1,0 +1,27 @@
+{
+  "name": "less-than-140-chars",
+  "version": "1.0.0",
+  "description": "Apps in 140 chars",
+  "main": "index.js",
+  "scripts": {
+    "todo": "node todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateonunez/less-than-140-chars.git"
+  },
+  "keywords": [
+    "mateonunez",
+    "less",
+    "than",
+    "140",
+    "chars",
+    "apps"
+  ],
+  "author": "mateonuez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateonunez/less-than-140-chars/issues"
+  },
+  "homepage": "https://github.com/mateonunez/less-than-140-chars#readme"
+}
