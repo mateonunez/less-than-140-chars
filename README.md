@@ -1,6 +1,6 @@
 # Less than 140 chars
 
-Application in less than 140 chars
+Applications in less than 140 chars
 
 ## Todo [140]
 
