@@ -4,7 +4,8 @@
   "description": "Apps in 140 chars",
   "main": "index.js",
   "scripts": {
-    "todo": "node todo"
+    "todo": "node todo",
+    "fizzbuzz": "node fizzbuzz"
   },
   "repository": {
     "type": "git",
