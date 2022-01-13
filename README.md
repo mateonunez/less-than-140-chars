@@ -8,12 +8,6 @@ Applications in less than 140 chars
 npm run todo
 ```
 
-## FizzBuzz [65]
-
-```shell
-npm run fizzbuzz
-```
-
 ### Create
 
 > Type something.
@@ -25,3 +19,9 @@ npm run fizzbuzz
 ### Delete
 
 > Type the done index
+
+## FizzBuzz [65]
+
+```shell
+npm run fizzbuzz
+```
